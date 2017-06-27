@@ -1,5 +1,9 @@
 ### BitmapFactory获取Bitmap图片以及解决OOM异常
 
+>[博客同步](http://blog.csdn.net/abc6368765/article/details/73800332)
+>[简书同步](http://www.jianshu.com/p/d4de1ed84908)
+>[github同步](https://github.com/AFinalStone/BitmapFactory)
+
 提供一个获取Bitmap的工具类：
 
 ```java
@@ -283,3 +287,4 @@ if(!bmp.isRecycle() ){
 }
 ```
 
+项目地址:[传送门](https://github.com/AFinalStone/BitmapFactory)
