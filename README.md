@@ -1,3 +1,5 @@
+### BitmapFactory获取Bitmap图片以及解决OOM异常
+
 提供一个获取Bitmap的工具类：
 
 ```java
